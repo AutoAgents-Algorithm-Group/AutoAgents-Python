@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-AutoAgents-000000?style=for-the-badge&labelColor=faf9f6&color=faf9f6&logoColor=000000" alt="AutoAgents" width="320"/>
+<img src="https://img.shields.io/badge/-AutoAgents Python-000000?style=for-the-badge&labelColor=faf9f6&color=faf9f6&logoColor=000000" alt="AutoAgents" width="320"/>
 
 <h4>Python AI 智能体框架 - Monorepo</h4>
 
 [English](README.md) | **简体中文**
 
-<a href="https://github.com/AutoAgents-Algorithm-Group/AutoAgents-Python">
-  <img alt="GitHub version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?style=for-the-badge" />
-</a>
 <a href="LICENSE">
-  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" />
+  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
 </a>
 
 </div>
