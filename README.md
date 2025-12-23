@@ -4,8 +4,6 @@
 
 <h4>Python AI Agent Framework - Monorepo</h4>
 
-**English** | [简体中文](README-CN.md)
-
 <a href="LICENSE">
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
 </a>
